@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyChat</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="login">Login</string><string name="send">send</string>
+</resources>
